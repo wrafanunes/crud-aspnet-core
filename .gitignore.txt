@@ -1,0 +1,1 @@
+.vs/API CRUD ASP.NET Core/DesignTimeBuild/.dtbcache.v2

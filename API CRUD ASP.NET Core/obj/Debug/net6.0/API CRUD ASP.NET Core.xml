@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API CRUD ASP.NET Core</name>
+    </assembly>
+    <members>
+        <member name="T:API_CRUD_ASP.NET_Core.Controllers.WeatherForecastController">
+            <summary>
+             Este controlador é usado para gerenciar os endpoints da classe &lt; WeatherForecast. 
+            </summary>
+        </member>
+        <member name="M:API_CRUD_ASP.NET_Core.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{API_CRUD_ASP.NET_Core.Controllers.WeatherForecastController})">
+            <summary>
+             Construtor do controlador
+            </summary>
+        </member>
+        <member name="M:API_CRUD_ASP.NET_Core.Controllers.WeatherForecastController.Get">
+            <summary>
+            retorna 5 objetos do tipo WeatherForecast, com índices enumerados de 1 a 5
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:API_CRUD_ASP.NET_Core.WeatherForecast">
+            <summary>
+            Classe de previsão do tempo
+            </summary>
+        </member>
+        <member name="P:API_CRUD_ASP.NET_Core.WeatherForecast.TemperatureC">
+            <summary>
+            Temperatura em Celsius
+            </summary>
+        </member>
+        <member name="P:API_CRUD_ASP.NET_Core.WeatherForecast.TemperatureF">
+            <summary>
+            Temperatura em graus Fahrenheit, automaticamente calculada, usando como argumento o valor da temperatura em Celsius
+            </summary>
+        </member>
+        <member name="P:API_CRUD_ASP.NET_Core.WeatherForecast.Summary">
+            <summary>
+            Propriedade anulável que sempre retorna o resumo da previsão do tempo, ou um valor nulo
+            </summary>
+        </member>
+    </members>
+</doc>

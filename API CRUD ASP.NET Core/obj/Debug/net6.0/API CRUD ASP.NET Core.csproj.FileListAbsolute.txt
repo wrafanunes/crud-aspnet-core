@@ -25,3 +25,6 @@ C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD AS
 C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.pdb
 C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.genruntimeconfig.cache
 C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\ref\API CRUD ASP.NET Core.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\API CRUD ASP.NET Core.xml
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.xml
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\API CRUD ASP.NET Core.staticwebassets.runtime.json

@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "hIDPYu9ns53fjOX7q/47jU+11YoBrPXqFfqUMkYmCoM=",
+  "Hash": "l9DbtuuKW5Nwg5XEKPGAcfs/I7d+p7jQL6qThFvgh0s=",
   "Source": "API CRUD ASP.NET Core",
   "BasePath": "_content/API CRUD ASP.NET Core",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "API CRUD ASP.NET Core\\wwwroot",
+      "Source": "API CRUD ASP.NET Core",
+      "ContentRoot": "C:\\Users\\wilson.nunes\\Documents\\workspace\\.NET\\API CRUD ASP.NET Core\\API CRUD ASP.NET Core\\wwwroot\\",
+      "BasePath": "_content/API CRUD ASP.NET Core",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\wilson.nunes\\Documents\\workspace\\.NET\\API CRUD ASP.NET Core\\API CRUD ASP.NET Core\\wwwroot\\custom.css",
+      "SourceId": "API CRUD ASP.NET Core",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wilson.nunes\\Documents\\workspace\\.NET\\API CRUD ASP.NET Core\\API CRUD ASP.NET Core\\wwwroot\\",
+      "BasePath": "_content/API CRUD ASP.NET Core",
+      "RelativePath": "custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\custom.css"
+    }
+  ]
 }
