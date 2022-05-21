@@ -1,0 +1,27 @@
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\appsettings.json
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\API CRUD ASP.NET Core.exe
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\API CRUD ASP.NET Core.deps.json
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\API CRUD ASP.NET Core.runtimeconfig.json
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\API CRUD ASP.NET Core.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\API CRUD ASP.NET Core.pdb
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.csproj.AssemblyReference.cache
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.AssemblyInfoInputs.cache
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.AssemblyInfo.cs
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\scopedcss\bundle\API CRUD ASP.NET Core.styles.css
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.csproj.CopyComplete
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\refint\API CRUD ASP.NET Core.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.pdb
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\API CRUD ASP.NET Core.genruntimeconfig.cache
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\obj\Debug\net6.0\ref\API CRUD ASP.NET Core.dll
