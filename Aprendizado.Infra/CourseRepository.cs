@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 
 namespace Aprendizado.Infra
 {
-    internal class CourseRepository : BaseRepository<Course>, ICourseRepository
+    public class CourseRepository : BaseRepository<Course>, ICourseRepository
     {
         public CourseRepository (IUnitOfWork uow) : base(uow) { }
 

@@ -9,6 +9,7 @@
       "API CRUD ASP.NET Core/1.0.0": {
         "dependencies": {
           "Aprendizado.Domain": "1.0.0",
+          "Aprendizado.Infra": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -239,6 +240,14 @@
           "Aprendizado.Domain.dll": {}
         }
       },
+      "Aprendizado.Infra/1.0.0": {
+        "dependencies": {
+          "Aprendizado.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Aprendizado.Infra.dll": {}
+        }
+      },
       "Core/1.0.0": {
         "dependencies": {
           "System.Configuration.ConfigurationManager": "6.0.0",
@@ -397,6 +406,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "Aprendizado.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aprendizado.Infra/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

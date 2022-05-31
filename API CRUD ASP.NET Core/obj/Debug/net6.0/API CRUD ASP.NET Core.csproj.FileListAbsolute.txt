@@ -49,3 +49,5 @@ C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD AS
 C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\Core.dll
 C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\Aprendizado.Domain.pdb
 C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\Core.pdb
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\Aprendizado.Infra.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\API CRUD ASP.NET Core\API CRUD ASP.NET Core\bin\Debug\net6.0\Aprendizado.Infra.pdb

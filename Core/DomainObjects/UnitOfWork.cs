@@ -3,7 +3,7 @@ using System.Data.SqlClient;
 
 namespace Core.DomainObjects
 {
-    internal class UnitOfWork
+    public class UnitOfWork : IUnitOfWork, IDisposable
     {
         private IDatabaseContextFactory _factory;
         private IDatabaseContext? _context;

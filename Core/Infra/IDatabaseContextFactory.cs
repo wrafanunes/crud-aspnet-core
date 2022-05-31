@@ -1,6 +1,6 @@
 ﻿namespace Core.Infra
 {
-    internal interface IDatabaseContextFactory
+    public interface IDatabaseContextFactory
     {
         IDatabaseContext Context ();
     }

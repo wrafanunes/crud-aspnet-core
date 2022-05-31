@@ -316,6 +316,19 @@
           "bin/placeholder/Aprendizado.Domain.dll": {}
         }
       },
+      "Aprendizado.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Aprendizado.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Aprendizado.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Aprendizado.Infra.dll": {}
+        }
+      },
       "Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -919,6 +932,11 @@
       "path": "../Aprendizado.Domain/Aprendizado.Domain.csproj",
       "msbuildProject": "../Aprendizado.Domain/Aprendizado.Domain.csproj"
     },
+    "Aprendizado.Infra/1.0.0": {
+      "type": "project",
+      "path": "../Aprendizado.Infra/Aprendizado.Infra.csproj",
+      "msbuildProject": "../Aprendizado.Infra/Aprendizado.Infra.csproj"
+    },
     "Core/1.0.0": {
       "type": "project",
       "path": "../Core/Core.csproj",
@@ -928,6 +946,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Aprendizado.Domain >= 1.0.0",
+      "Aprendizado.Infra >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -970,6 +989,9 @@
           "projectReferences": {
             "C:\\Users\\wilson.nunes\\Documents\\workspace\\.NET\\API CRUD ASP.NET Core\\Aprendizado.Domain\\Aprendizado.Domain.csproj": {
               "projectPath": "C:\\Users\\wilson.nunes\\Documents\\workspace\\.NET\\API CRUD ASP.NET Core\\Aprendizado.Domain\\Aprendizado.Domain.csproj"
+            },
+            "C:\\Users\\wilson.nunes\\Documents\\workspace\\.NET\\API CRUD ASP.NET Core\\Aprendizado.Infra\\Aprendizado.Infra.csproj": {
+              "projectPath": "C:\\Users\\wilson.nunes\\Documents\\workspace\\.NET\\API CRUD ASP.NET Core\\Aprendizado.Infra\\Aprendizado.Infra.csproj"
             }
           }
         }

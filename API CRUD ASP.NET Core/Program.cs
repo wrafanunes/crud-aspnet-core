@@ -1,3 +1,7 @@
+using Aprendizado.Domain;
+using Aprendizado.Infra;
+using Core.DomainObjects;
+using Core.Infra;
 using Microsoft.OpenApi.Models;
 using System.Reflection;
 
@@ -30,6 +34,10 @@ builder.Services.AddSwaggerGen(options =>
     var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
     options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
 });
+
+builder.Services.AddSingleton<IDatabaseContextFactory, DatabaseContextFactory>();
+builder.Services.AddSingleton<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<ICourseRepository, CourseRepository>();
 
 var app = builder.Build();
 

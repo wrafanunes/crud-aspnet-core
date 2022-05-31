@@ -2,7 +2,7 @@
 
 namespace Core.DomainObjects
 {
-    internal class DatabaseContextFactory : IDatabaseContextFactory
+    public class DatabaseContextFactory : IDatabaseContextFactory
     {
         private IDatabaseContext? _dataContext;
 
