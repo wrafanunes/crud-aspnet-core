@@ -17,4 +17,8 @@
     <None Include="wwwroot\custom.css" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Aprendizado.Domain\Aprendizado.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,1 +1,2 @@
 .vs/API CRUD ASP.NET Core/DesignTimeBuild/.dtbcache.v2
+.vs/API CRUD ASP.NET Core/FileContentIndex/read.lock
